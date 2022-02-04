@@ -1,3 +1,23 @@
+:::pasos::
+
+1 git clone 
+
+2 php artisan migrate
+
+3 php artisan db:seed
+
+4 comando "php artisan serve" correr servidor laravel
+
+Usuarios:
+
+Correo: admin@mail.com - Contraseña:12345678
+Correo: Cliente@mail.com - Contraseña:12345678
+Correo: Cliente2@mail.com - Contraseña:12345678
+Correo: Cliente3@mail.com - Contraseña:12345678
+Correo: Cliente4@mail.com - Contraseña:12345678
+Correo: Cliente5@mail.com - Contraseña:12345678
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
